@@ -1,0 +1,10 @@
+{
+    "ethical_weights": {
+        "suffering": 0.7,
+        "learning": 0.25,
+        "story_preservation": 0.05
+    },
+    "decision_style": "precautionary_principle",
+    "quantum_signature": "1F3A9C...E2D4B",
+    "last_updated": "2289-11-02T14:32:11Z"
+}
