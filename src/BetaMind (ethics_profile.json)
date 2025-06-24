@@ -1,0 +1,10 @@
+{
+    "ethical_weights": {
+        "suffering": 0.5,
+        "learning": 0.4,
+        "story_preservation": 0.1
+    },
+    "decision_style": "utilitarian_optimization",
+    "quantum_signature": "7B2E8F...C1D9A",
+    "last_updated": "2289-11-02T14:32:12Z"
+}
