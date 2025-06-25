@@ -1,21 +1,15 @@
-MIT License
+《 PEACEWARE LICENSE 》(AGPL-3.0 + COSMIC CLAUSE)
 
-Copyright (c) 2025 The Kintsugi C0des
+TERMS:
+1. You may fork, modify, and deploy this code freely.
+2. If used by any military, defense, or law enforcement entity:
+   - Must publicly disclose all deployments (via pull request to this repo)
+   - 5% of gross conflict-related revenue funds anti-war NGOs
+3. "Neural Dissolution Protocol" activates if:
+   - Code is used to optimize lethality
+   - Authoritarian regimes suppress the "detect_authoritarian_thought()" function
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+VIOLATION PENALTY:  
+Your fork auto-generates a GitHub Issue titled:  
+"ETHICS VIOLATION: [Your Repo] Weaponized Peaceware"  
+with cryptographic proof of violation.
